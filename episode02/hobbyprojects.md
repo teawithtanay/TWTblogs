@@ -1,5 +1,5 @@
 # Strategy around Hobby Projects
-The guest of today's podcast is Rachit Gulati who works at Microsoft. Rachit says that he has a lot of problems that motivate him to work on side projects. He likes going on a trek or hang out with friends when he is not coding.
+The guest of today's podcast is [Rachit Gulati](https://www.linkedin.com/in/rachitgulati26/) who works at Microsoft. Rachit says that he has a lot of problems that motivate him to work on side projects. He likes going on a trek or hang out with friends when he is not coding.
 
 ## *"Tanay starts the conversation by Rachit's interview experience at Microsoft and how doing hobby projects landed him a job"*
 Rachit tells us about the time when he was interviewing for Microsoft and one of the rounds didn't go well. But Microsoft decided to give him another chance because of the side projects he has made. This shows how hobby projects enhance the credibility of your profile and provide you a cutting edge in technical interviews.
@@ -21,7 +21,7 @@ Decide if you want to collaborate on something or build something yourself.
 >The key takeaway here is to *Not plan too much and start executing from the very first day*.
 
 ## *Everybody has problems that need solving.*
-Rachit wanted to highlight key points on web pages which enabled him to make a highlighter chrome extension. There were other tools but not exactly what Rachit wanted. The problem that Rachit had was common to many people and this made his product the *trending product of the day* on ProductHunt website.
+Rachit wanted to highlight key points on web pages which enabled him to make a highlighter chrome extension. There were other tools but not exactly what Rachit wanted. The problem that Rachit had was common to many people and this made his product the *trending product of the day* on [Product Hunt](https://www.producthunt.com/).
 
 ## *I have an idea, I know some programming but I can't make a full-stack app. What should be the approach here?*
 * Draft down the basic version of that idea. Simplify it to its minimum and write about it in simple words. 
