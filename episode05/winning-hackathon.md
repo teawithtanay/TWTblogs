@@ -29,9 +29,10 @@ He then went on to win goodies and prize money by building skills for Alexa.
 When Aviral started going to hackathons four years ago, his main intention was to be there and meet people. He wanted to understand where does he stands and what he needs to learn to get better. If you're a beginner, you should concentrate more on attending and understanding how hackathons work.
 It usually serves as a booster for your projects where you work rapidly for two days and iterate the project later.  
 Aviral says that it's really important to understand why this hackathon is happening and the purpose of the theme.  
-Once you understand this, you have to look at the judges and work on the type of hackathon you're in.
-If you're in a "Presentation Hackathon" then you should concentrate more on communicating your idea and your presentation skills.  
-If you're in a "Technology Hackathon" then what you've built matters more than how you present it.
+Once you understand this, you have to look at the judges and work on the type of hackathon you're in.  
+* If you're in a *"Presentation Hackathon"* then you should concentrate more on communicating your idea and your presentation skills.  
+* If you're in a *"Technology Hackathon"* then what you've built matters more than how you present it.  
+
 Apply to hackathons where you think your idea fits.
 Go with an idea planned in your mind and build the project there.
 Talk to people and get feedback on how you can make that idea better. 
@@ -39,26 +40,26 @@ Talk to people and get feedback on how you can make that idea better.
 ## *How to choose among the many student programs?*
 Apply in as many as you can and try to be in one. By applying, you will get an idea of how to submit applications to these programs, know your weak point and compete on a global level.
 Some of the programs are listed below:  
-Microsoft Student Partner
-Google Developer Expert
-Google Developer Student Group
-Google Summer of Code
-GirlScript Summer of Code
-Facebook Developer Circle
-Intel Software Ambassador Program
-Linkedin Writer Program 
-Github Campus Ambassador Program
+* Microsoft Student Partner
+* Google Developer Expert
+* Google Developer Student Group
+* Google Summer of Code
+* GirlScript Summer of Code
+* Facebook Developer Circle
+* Intel Software Ambassador Program
+* Linkedin Writer Program 
+* Github Campus Ambassador Program
 
 ## *How did your freelance work start?*
 Networking played a great role here. When you connect will lots of like-minded people, your chances of getting a good opportunity increases. Aviral got his freelancing gig when someone in his network approached him for help in a project. Freelancing polishes your skills and expands your knowledge base. 
 
 ## *What's more important to focus during the hackathon?*
 Aviral states some points to consider in this context:
-Focus on the product and examine if the design is going to help or tech is going to help in that particular hackathon.
+Focus on the product and examine if the design is going to help or tech is going to help in that particular hackathon.  
 A working prototype with one core feature is better than adding lots of features. So focus building one complete feature rather lots of addons.
 
 ## *How should a standard team look like?*
-It depends on how many people you're comfortable with and you should team up with people who are also enthusiastic and interested in the event. **A team is as good as the people in it**.
+It depends on how many people you're comfortable with and you should team up with people who are also enthusiastic and interested in the event. ***A team is as good as the people in it***.
 The end goal is to build something and be proud of it.
 
 ## *Are hackathons right for average coders?*
