@@ -38,7 +38,7 @@ Saurabh says that learning performance optimization is platform dependent. Tools
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse) is really helpful to benchmark performance and to know where your site stands at the moment.  
 * [HTTP Archive](httparchive.org) has a repository that includes performance data of millions of sites. 
 [The Chrome UX Report](https://developers.google.com/web/tools/chrome-user-experience-report) (aka "CrUX") is a dataset of real user experiences measured by Chrome. It is used to capture user data like click interactions, permission interaction, etc. 
-* [WebPage Test](https://www.webpagetest.org/) is one of the most popular and free tools for measuring webpage performance. Webpagetest enables you to run web performance tests on your site from many different locations across the world in different browsers. It lets you choose the environment (network, location, configuration, etc). 
+* [WebPage Test](https://www.webpagetest.org/) is one of the most popular and free tools for measuring webpage performance. Webpagetest enables you to run web performance tests on your site from many different locations across the world in different browsers. It lets you choose the environment like (network, location, configuration, etc). 
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
 * [Firefox Developer Tool](https://developer.mozilla.org/en-US/docs/Tools)
 
