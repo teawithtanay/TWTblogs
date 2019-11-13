@@ -3,14 +3,13 @@
 [Anubha Maneshwar](https://www.linkedin.com/in/anubhamane/) is the founder of GirlScript, Mozilla Web Group, Dev Rally in Hasura, and have won the Indian Women Leadership Award for Education. Anubha Maneshwar is the winner of 35 Under 35 Awards in Best Startup for Education Category and India’s Top 100 Young Leaders Award.
 
 ## *Anubha and GirlScript*
-GirlScript right now is in 52 cities of India, in Chicago, China, and Africa and it's about to come to the UK in two years.
-to help beginners learn and get the correct exposure
-started as a student in a small college in Nagpur, got a break in women tech maker Hyderabad.  
+GirlScript right now is in 52 cities of India, in Chicago, China, Africa, and it's about to come to the UK in two years.
+GirlScript aims to help beginners learn and get suitable exposure.
 Anubha's journey starts from a small college in Nagpur and goes all the way to Google Women Tech Makers in Hyderabad.  
-She got a chance to attend Google Tech Maker International women's day celebration which made her realize how far the community is lagging behind. It then led her to be a part of the Mozilla Web Community along with a few other communities as well. After being a part of more than 10 communities she realized that there is a gap which she can fill and that's how GirlScript came into existence.
+She got a chance to attend Google Tech Maker International women's day celebration which made her realize how far the community is lagging. It then led her to become a part of the Mozilla Web Community along with a few other communities as well. After being a part of more than 10 communities she realized that there is a gap she can fill and that's how GirlScript came into existence.
 
 ## *How did you come up with the name GirlScript ?*
-Anubha talks about an event when she with her fellow classmates were interviewing for a company. When it came to the programming round, others started to step back. That's where she realized that women in tech are taking a set back themselves and they need support.  
+Anubha talks about an event when she with her classmates were interviewing for a company. When it came to the programming round, others started to step back. That's where she realized that women in tech are taking a set back themselves and they need support.  
 GirlScript is an organization that provides the needed support to both men and women promoting diversity, equality in tech and therefore the name. To promote equality, 50% of seats are reserved for women bringing an equal ratio of men and women under one roof. Anubha says that a community can't be built by excluding a group or do women-only events.  
 The idea of "Script" in GirlScript is to write something meaningful as it does by including both men and women in community events and empowering women as well.  
 The other moto of GirlScript is to support feminism. If a guy doesn't feel bothered working under a women leader and for the name "GirlScript" then that will be the true meaning of feminism and women empowerment, Anubha added.
@@ -30,7 +29,7 @@ There were basic things that were missing apart from programming like email writ
 GirlScript was the first organization to tackle these gaps and start a tech revolution in India which is why the community grew up so fast in so less amount of time.
 
 ## *How do you organize everything and tackle the problems at a scale so big ?*
-Anubha says that people from small cities don't really use or know about apps like Discord or Slack but one thing commonly used by everyone is WhatsApp and that's our main way of communication.
+Anubha says that people from small cities don't use or know about apps like Discord or Slack but one thing commonly used by everyone is WhatsApp and that's our main way of communication.
 GirlScript uses WhatsApp group for leaders which provides them the information for various chapters and to discuss the problems if they are facing any. These leaders are allowed to use any platform available as suited by the place and members of the event.  
 It also breaks the stereotype of *coolness* in the tech world who use slack, meetup.com or other tools that are less common for beginners. The idea is to utilize where most of the presence is.
 
@@ -45,7 +44,7 @@ The most important thing is transparency. If you manage to showcase that the mon
 GirlScript also has only two fundraising events in which they charge. Apart from that, everything is free of cost.
 
 ## *What is your appeal to our listeners?*
-Anubha gives a nice message that "if you see a fellow mate lagging behind for some reason then you should always try to help." The second thing she mentions is that you can always ask for help if you feel like you're lagging behind. GirlScript is there to help you and you can reach out to Anubha or GirlScript in case you need any help.  
+Anubha gives a nice message that "if you see a fellow mate lagging for some reason then you should always try to help." The second thing she mentions is that you can always ask for help if you feel like you're lagging. GirlScript is there to help you and you can reach out to Anubha or GirlScript in case you need any help.  
 Anubha advises the listener to go to events, interact with other people and learn new things. You should focus on learning mainly and not on materialistic swags, t-shirts, etc.   
 
->On the ending note, one should always remember that ***Community means giving back.***
+>On ending note, one should always remember that ***Community means giving back.***
